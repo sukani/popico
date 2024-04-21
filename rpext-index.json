@@ -1,6 +1,6 @@
 {
   "id": "pocopico.hv_netvsc",
-  "url": "https://raw.githubusercontent.comsukani/popico/main/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/sukani/popico/main/rpext-index.json",
   "info": {
     "name": "hv_netvsc",
     "description": "Adds Microsoft Hyper-V network driver Support",
